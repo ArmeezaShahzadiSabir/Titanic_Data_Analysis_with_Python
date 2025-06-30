@@ -30,13 +30,29 @@ A comprehensive **Exploratory Data Analysis (EDA)** and **data cleaning** projec
 ![Survival by Class and Gender](plots/survival_by_passenger_class.png)  
 *(Survival rates stratified by Pclass and Sex)*
 
+
+### 🚀 How to Run?
+Open CMD in Windows or Terminal App in MacOS.
+
+#### 1. Clone the repository:
+git clone https://github.com/ArmeezaShahzadiSabir/Titanic_Data_Analysis_with_Python
+
+#### 2. Install dependencies:
+pip install -r requirements.txt
+
+#### 3. Open the Jupyter notebook:
+jupyter notebook notebooks/titanic_data_analysis.ipynb
+
+
 ## 📊 Data Sources
 Dataset: Kaggle Titanic Competition (https://www.kaggle.com/c/titanic/data)
 
 Tools: Python (Pandas, NumPy, Seaborn, Matplotlib)
 
+
 ## 🤝 Contributing
 Open to suggestions! Fork the repo and submit a PR or open an issue.
+
 
 ## 🌟 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/armeeza-shahzadi-sabir/)
